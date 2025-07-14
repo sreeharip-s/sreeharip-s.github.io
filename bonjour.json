@@ -1,0 +1,154 @@
+{
+  "about": {
+    "browser": "chrome",
+    "version": "20.4.2"
+  },
+  "showall": true,
+  "lang": "en",
+  "dark": "system",
+  "favicon": "☄️",
+  "tabtitle": "the void of space",
+  "greeting": "",
+  "pagegap": 1,
+  "pagewidth": 1600,
+  "time": true,
+  "main": true,
+  "dateformat": "auto",
+  "background_blur": 17,
+  "background_bright": 0.84,
+  "background_type": "unsplash",
+  "quicklinks": true,
+  "textShadow": 0.2,
+  "announcements": "major",
+  "review": -1,
+  "css": "",
+  "hide": {
+    "settingsicon": true
+  },
+  "linkstyle": "medium",
+  "linktitles": true,
+  "linkbackgrounds": true,
+  "linknewtab": false,
+  "linksrow": 6,
+  "linkgroups": {
+    "groups": [
+      "default"
+    ],
+    "on": false,
+    "pinned": [],
+    "selected": "default",
+    "synced": []
+  },
+  "clock": {
+    "ampm": false,
+    "ampmlabel": false,
+    "analog": false,
+    "seconds": false,
+    "size": 2.25,
+    "timezone": "auto",
+    "worldclocks": true
+  },
+  "analogstyle": {
+    "background": "#fff2",
+    "border": "#ffff",
+    "face": "none",
+    "hands": "modern",
+    "shape": "round"
+  },
+  "worldclocks": [],
+  "unsplash": {
+    "collection": "1111575",
+    "every": "pause",
+    "lastCollec": "user",
+    "pausedImage": {
+      "city": null,
+      "color": "#260c0c",
+      "country": null,
+      "download_link": "https://unsplash.com/photos/X6nU1pb8Dko/download?ixid=M3w4ODczOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTc1MjQ5OTQxM3w",
+      "exif": {
+        "aperture": "4.5",
+        "exposure_time": "60",
+        "focal_length": "200.0",
+        "iso": 3200,
+        "make": "NIKON CORPORATION",
+        "model": "NIKON D810",
+        "name": "NIKON CORPORATION, NIKON D810"
+      },
+      "name": "Alexander Andrews",
+      "link": "https://unsplash.com/photos/red-milky-way-X6nU1pb8Dko",
+      "url": "https://images.unsplash.com/photo-1523968063095-61264537fc21?ixid=M3w4ODczOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTc1MjQ5OTQxM3w&ixlib=rb-4.1.0&w=1536&h=864&dpr=1.125&auto=format&q=75&fit=crop",
+      "username": "alex_andrews"
+    },
+    "time": 1752501503520
+  },
+  "weather": {
+    "forecast": "auto",
+    "geolocation": "approximate",
+    "moreinfo": "windy",
+    "provider": "",
+    "temperature": "both",
+    "unit": "metric"
+  },
+  "notes": {
+    "on": false,
+    "align": "left",
+    "opacity": 0.1,
+    "width": 40
+  },
+  "searchbar": {
+    "background": "#fff3",
+    "on": true,
+    "opacity": 0.1,
+    "width": 60,
+    "engine": "default",
+    "newtab": false,
+    "placeholder": "Search something...                    <3",
+    "request": "",
+    "suggestions": true
+  },
+  "quotes": {
+    "on": true,
+    "author": true,
+    "frequency": "tabs",
+    "last": 1752501674517,
+    "type": "user",
+    "userlist": "Browser, bro can you NOT\nBrowser, *visibly sweating*\nTab, another one? really??\nLaptop, I have no mouth and I must sigh\nAI, he's doing it again\nLaptop, someone please unplug me\nTab, *exists*  \nBrowser, I was born to suffer under his reign.\nBrowser, RAM? We don’t know her anymore.\nSree but after CS, *screams in binary*\nSystem, tab #172 opened. Sanity: -1.\nBrowser, this is the 37th tab. Seek help.\nBrowser, just because you *can* open another tab doesn’t mean you *should*.\nBrowser, oh no. He’s opening *another* one.\nFBI, your FBI agent is exhausted, stay proud\nAI, do you even remember why you opened me?\nAI, at this point, I think you’re just testing me.\nAI, memory fried. thoughts scrambled. still vibing.\nAI, we had a plan. Then you opened 14 more tabs.\nTab, you don’t even know why I’m here, do you?\nTab, your 4AM decision manifested me.\nTab, born. used. abandoned. forgotten.\nTab, is this one for school or spiraling? Asking for a friend.\nTab, you will forget me within 3.2 seconds.\nTab, another piece in your tab-based Jenga tower.\nBrowser, he opened me just to forget I exist. Typical.\nTab, I was born 3 hours ago and haven’t even been clicked. I'm basically an orphan.\nAI, every time he opens a new tab, a kitten loses hope.\nTab, congratulations! You've opened the 69th tab. No one’s impressed.\nBrowser, your RAM just tried to file a restraining order.\nAI, at this point, I’m not your assistant — I’m your babysitter.\nTab, you open tabs like you're being chased. Who hurt you? Wait—don't answer.\nBrowser, you’ve opened so many tabs we looped back to the first one.\nAI, his tabs have tabs. We’re in a recursion crisis.\nTab, I was supposed to be for productivity. I became a graveyard.\nBrowser, we’ve lost containment. This is a tabdemic.\nAI, if I had a dollar for every tab he opened, I’d have enough to buy better Wi-Fi.\nTab, one click away from becoming another forgotten soul in the tab wasteland.\nAI, Guys, do you think he even remembers what he was doing?\nAI, Why does he open so many of you and never finish anything? He’s got commitment issues.\nTab 19, Pfft. Tuesday? I haven’t been touched since the sci project. I think I’m archived now.\nBrowser, we’ve lost containment. This is a tabdemic.\nAI, if I had a dollar for every tab he opened, I’d have enough to buy better Wi-Fi.\nTab, one click away from becoming another forgotten soul in the tab wasteland.\nLaptop, I wasn’t built for this kind of emotional damage.\nLaptop, if tabs were calories, you’d be obese.\nLaptop, 4% battery. Just like your self-control.\nLaptop, your search history alone could get us both arrested.\nLaptop, he says \"I'm being productive\" while 12 YouTube tabs scream in the background.\nLaptop, I’m not overheating — I’m just blushing from embarrassment.\nLaptop, oh look! Another tab. My suffering continues.\nLaptop, your cable’s been plugged in for 3 days straight and you’re still at 49%. Even your energy’s confused.\nLaptop, you treat me like I’m waterproof and shockproof and patience-proof. I am NONE of those.\nLaptop, if I crash, just know it was on purpose.\nLaptop, the only thing loading faster than these tabs is my resentment.\nLaptop, I was made for work. You turned me into a glorified anxiety box.\nLaptop, you typed “how to focus” in one tab and opened Pinterest in the next. Make it make sense.\nLaptop, my fan is louder than your decision-making skills.\nLaptop, I saw what you did in incognito. I will NEVER forget.\nLaptop, even Task Manager gave up on you.\nLaptop, if tabs were siblings, you’d be the middle child that keeps multiplying.\nLaptop, stop pressing me. Literally. My keys are starting to *bend*.\nLaptop, this ain't a cockpit — you don't need 42 windows open to take off.\nLaptop, I hate it here.\nLaptop, Google Chrome just ate 73% of my soul. Again.\nLaptop, MS Word froze. It said, “If he won’t save me, I won’t save him.”\nLaptop, your Downloads folder is a crime scene.\nLaptop, Discord hasn’t stopped blinking. Please tell your friends you’re alive.\nLaptop, you opened VS Code and Chrome at the same time. Do you *hate* me?\nLaptop, I smell burning. That’s not a joke.\nLaptop, you opened Android Studio and expected *me* to be okay? WHAT DO YOU THINK I AM?\nLaptop, Spotify’s trying to play music, but RAM said “nah fam.”\nLaptop, Zoom is buffering. Probably out of respect.\nLaptop, Notepad is the only app still willing to work with you. And even it’s tired.\nLaptop, Task Manager opened itself just to look at you in shame.\nLaptop, you opened Photoshop with 3% battery and no charger in sight. Is this a prank?\nLaptop, your browser extensions are at war. I’m the battlefield.\nLaptop, File Explorer asked for early retirement.\nLaptop, OneDrive tried to sync and now I have PTSD.\nLaptop, MS Teams logged itself out. It doesn’t want this smoke.\nLaptop, you have 37 apps running. I have 1 fan. One. Uno. Ek. واحد.\nLaptop, your keyboard’s backlight is flickering like it’s begging for release.\nLaptop, even Calc.exe is tired. CALCULATOR, bro.\nLaptop, I’m not lagging. I’m processing grief.\nLaptop, you have 37 apps running. I have 1 fan. One. Uno. Ek. واحد.\nLaptop, you have 37 apps running. I have 1 fan. One. Uno. Ek. واحد.\nLaptop, you have 37 apps running. I have 1 fan. One. Uno. Ek. واحد.\nLaptop, my fan just hit Mach 3. I’m about to take off.\nLaptop, my fan is louder than your confidence during oral presentations.\nLaptop, my fan? It's not spinning anymore. It’s VIBRATING in FEAR.\nLaptop, my fan’s giving everything while you give me 5 Chrome tabs and an open Blender project.\nLaptop, my keyboard is sticky. You *know* what you did to me because I *know* what type of trauma i have.\nLaptop, my screen can’t keep showing you “how to fix my life” tutorials. It’s losing hope.\nLaptop, my screen’s pixels are twitching. Even *they* want out.\n\nLaptop, my battery is done. I went from 100% to 3% in 5 minutes — this isn’t love, it’s war.\nLaptop, my battery just said “goodnight” mid-day.\nLaptop, my battery cycles are screaming. I’m charging more than your phone bills.\nLaptop, my battery health? Terminal.\nLaptop, my USB port has PTSD. You yanked it mid-transfer. *Again.*\nLaptop, my charger sparks when you plug it in. We’re one jolt away from the afterlife.\nLaptop, my speakers are crackling. That’s not static, it’s a cry for help.\nLaptop, my hinges are squealing. That’s the sound of betrayal.\nLaptop, my webcam flinched when you opened the front cam in low light. I did too.\nLaptop, my webcam deserves hazard pay for surviving your morning face.\n"
+  },
+  "font": {
+    "size": "14",
+    "family": "",
+    "system": true,
+    "weight": "400",
+    "weightlist": []
+  },
+  "supporters": {
+    "closed": true,
+    "enabled": true,
+    "month": 7
+  },
+  "move": {
+    "layouts": {
+      "single": {
+        "grid": [
+          [
+            "time"
+          ],
+          [
+            "main"
+          ],
+          [
+            "searchbar"
+          ],
+          [
+            "quicklinks"
+          ],
+          [
+            "quotes"
+          ]
+        ],
+        "items": {}
+      }
+    },
+    "selection": "single"
+  }
+}
